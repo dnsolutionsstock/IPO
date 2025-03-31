@@ -36,7 +36,7 @@ jobs:
           echo '            "name": name,' >> convert.py
           echo '            "combo": combo,' >> convert.py
           echo '            "account": account,' >> convert.py
-          echo '            "stockPrice": 31800,' >> convert.py
+          echo '            "stockPrice": 89700,' >> convert.py
           echo '            "sharesOwned": sharesOwned' >> convert.py
           echo '        })' >> convert.py
           echo 'with open("data.json", "w", encoding="utf-8") as f:' >> convert.py
@@ -52,7 +52,7 @@ jobs:
 
       - name: Push changes
         env:
-          GH_TOKEN: ${{ secrets.api2 }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD:main
