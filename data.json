@@ -1,18 +1,18 @@
 {
     "users": [
         {
-            "name": "김이야",
+            "name": "1",
             "combo": "== 선택 ==",
             "account": "1",
             "stockPrice": 89700,
-            "sharesOwned": 100
+            "sharesOwned": 500
         },
         {
-            "name": "2",
+            "name": "홍길동",
             "combo": "키움증권",
-            "account": "12341234",
+            "account": "12345678",
             "stockPrice": 89700,
-            "sharesOwned": 200
+            "sharesOwned": 100
         }
     ]
 }
