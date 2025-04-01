@@ -62,6 +62,55 @@
             "account": "10676199901",
             "stockPrice": 89700,
             "sharesOwned": 3
+        },
+        {
+            "name": "★★이해수★★",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 89700,
+            "sharesOwned": 1
+        },
+        {
+            "name": "노동현",
+            "combo": "키움증권",
+            "account": "55936955",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
+            "name": "★★김세정★★",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 89700,
+            "sharesOwned": 1
+        },
+        {
+            "name": "임수환",
+            "combo": "나무증권",
+            "account": "20401796097",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
+            "name": "최영수",
+            "combo": "키움증권",
+            "account": "50985526",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
+            "name": "위재혁",
+            "combo": "키움증권",
+            "account": "61890985",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
+            "name": "이경준",
+            "combo": "삼성증권",
+            "account": "707931980101",
+            "stockPrice": 89700,
+            "sharesOwned": 3
         }
     ]
 }
