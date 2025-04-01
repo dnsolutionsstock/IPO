@@ -41,6 +41,27 @@
             "account": "343375749",
             "stockPrice": 89700,
             "sharesOwned": 3
+        },
+        {
+            "name": "김수경",
+            "combo": "삼성증권",
+            "account": "710004412901",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
+            "name": "박효자",
+            "combo": "미래에셋증권",
+            "account": "112600476000",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
+            "name": "조영호",
+            "combo": "DB금융투자",
+            "account": "10676199901",
+            "stockPrice": 89700,
+            "sharesOwned": 3
         }
     ]
 }
