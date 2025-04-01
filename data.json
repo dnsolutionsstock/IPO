@@ -71,6 +71,41 @@
             "sharesOwned": 3
         },
         {
+            "name": "★★김우현★★",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 89700,
+            "sharesOwned": 1
+        },
+        {
+            "name": "김용학",
+            "combo": "카카오페이증권",
+            "account": "02006276000",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
+            "name": "유태준",
+            "combo": "삼성증권",
+            "account": "707884133201",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
+            "name": "이동훈",
+            "combo": "KB증권",
+            "account": "254745191",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
+            "name": "유정필",
+            "combo": "삼성증권",
+            "account": "711317817101",
+            "stockPrice": 89700,
+            "sharesOwned": 3
+        },
+        {
             "name": "★★아영★★",
             "combo": "1",
             "account": "1",
